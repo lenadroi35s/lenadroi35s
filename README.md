@@ -4,8 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-santana-intriago-17a07923a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:santanaleandro099@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=lenadroi35s&color=0A66C2&style=for-the-badge&label=VISITAS" alt="visitas" />
-</p>
+ </p>
 
 ---
 
@@ -41,12 +40,3 @@
   <img src="https://skillicons.dev/icons?i=kubernetes,terraform,gitlab,git,github,nginx,linux,grafana,powershell&perline=9" alt="DevOps" />
 </p>
 
----
-## Connect with me
-<div align="center">
-<a href="https://github.com/lenadroi35s" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/leandro-santana-17a07923a" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
