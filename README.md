@@ -42,22 +42,11 @@
 </p>
 
 ---
-
-### 📌 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [Solution_Architect_BP](https://github.com/lenadroi35s/Solution_Architect_BP) | Propuesta de arquitectura de solución | Arquitectura |
-| [Test_Tec_WooWTech](https://github.com/lenadroi35s/Test_Tec_WooWTech) | Prueba técnica | TypeScript |
-| [backJelou](https://github.com/lenadroi35s/backJelou) | Backend / API | JavaScript · Node.js |
-| [LabApis](https://github.com/lenadroi35s/LabApis) | Laboratorio de APIs REST | JavaScript · Node.js |
-| [client](https://github.com/lenadroi35s/client) | Cliente web | JavaScript |
-
----
-
-### 📊 Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lenadroi35s&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenadroi35s&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
-</p>
+## Connect with me
+<div align="center">
+<a href="https://github.com/lenadroi35s" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/leandro-santana-17a07923a" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
