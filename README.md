@@ -1,113 +1,63 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<h1 align="center">Hola 👋, soy Isaac Santana</h1>
+<h3 align="center">Software Engineer · Full‑Stack Developer (JavaScript / TypeScript · Python · C#)</h3>
 
-### <div align="center">I'm Leandro, a Software Developer 👨‍💻 🤖 🚀</div>  
-  
+<p align="center">
+  <a href="https://www.linkedin.com/in/isaac-santana-intriago-17a07923a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:santanaleandro099@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=lenadroi35s&color=0A66C2&style=for-the-badge&label=VISITAS" alt="visitas" />
+</p>
 
-<br/>  
+---
 
+### 🧑‍💻 Sobre mí
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+- 💼 Desarrollador full‑stack: construyo APIs, aplicaciones web y despliego en la nube.
+- ⚙️ Backend con **Node.js (Express / NestJS)**, **Python (Django / Flask)** y **C# / .NET**.
+- 🎨 Frontend con **React, Next.js, Vue y Astro**, estilizado con Tailwind y Material UI.
+- ☁️ Infraestructura con **Kubernetes, Terraform, GitLab CI, Nginx y Grafana**.
+- 📫 Escríbeme por [LinkedIn](https://www.linkedin.com/in/isaac-santana-intriago-17a07923a/) o a **santanaleandro099@gmail.com**.
 
+---
 
+### 🛠️ Tecnologías
 
-### Frontend  
-<div align="center">  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
+**Lenguajes**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,php,html,css,bash&perline=8" alt="Lenguajes" />
+</p>
 
-</td><td valign="top" width="33%">
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,tailwind,materialui,bootstrap,flutter,figma,wordpress&perline=10" alt="Frontend" />
+</p>
 
+**Backend y bases de datos**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,dotnet,mongodb,mysql,firebase&perline=9" alt="Backend" />
+</p>
 
+**DevOps y herramientas**
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,gitlab,git,github,nginx,linux,grafana,powershell&perline=9" alt="DevOps" />
+</p>
 
-### Backend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+### 📌 Proyectos destacados
 
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [Solution_Architect_BP](https://github.com/lenadroi35s/Solution_Architect_BP) | Propuesta de arquitectura de solución | Arquitectura |
+| [Test_Tec_WooWTech](https://github.com/lenadroi35s/Test_Tec_WooWTech) | Prueba técnica | TypeScript |
+| [backJelou](https://github.com/lenadroi35s/backJelou) | Backend / API | JavaScript · Node.js |
+| [LabApis](https://github.com/lenadroi35s/LabApis) | Laboratorio de APIs REST | JavaScript · Node.js |
+| [client](https://github.com/lenadroi35s/client) | Cliente web | JavaScript |
 
+---
 
-### DevOps  
-<div align="center">  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-</div>
+### 📊 Estadísticas
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me
-<div align="center">
-<a href="https://github.com/lenadroi35s" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/isaac-santana-intriago-17a07923a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-</div>
-  
-
-<br/>  
-
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-<!--
-**lenadroi35s/lenadroi35s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lenadroi35s&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenadroi35s&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+</p>
